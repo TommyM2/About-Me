@@ -1,6 +1,6 @@
 # Sport Life
 
-I love to play sports a lot. I play basketball, football, soccer, and I ran track. I only played soccer and basketball for fun, but I ran track and played football for my highschool back in Maryland. I am in love with football. Acually, one of the resaons I can to mizzou wasn't only for school, but to play football as well. My plan is to walk on in the spring and make the team and my journey would start from there. I'm a competitive person especially when it comes to sports. 
+I love to play sports a lot. I play basketball, football, soccer, and I ran track. I only played soccer and basketball for fun, but I ran track and played football for my highschool back in Maryland. I am in love with football. Actually, one of the resaons I can to mizzou wasn't only for school, but to play football as well. My plan is to walk on in the spring and make the team and my journey would start from there. I'm a competitive person especially when it comes to sports. 
 
 I felt like soccer was boring even though I can play it and I only play basketball for fun. What I mean by that is I wouldn't join an organization or something like that.
 
