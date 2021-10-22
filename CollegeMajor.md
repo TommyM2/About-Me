@@ -12,14 +12,28 @@ The reason I chose IT/Computer Science field was bevause I been around electroni
 
 * [Computer Science Careers](http://3mkm08kox71vtynw1b1wbtpab.wpengine.netdna-cdn.com/wp-content/uploads/2012/10/avg_salaries_graph_oct9.png)
 
-This paragraph has some 'variable' inline code.
+This paragraph has some `variable` inline code.
 
 Heres a code:
 
-''' javascript
-let num = Math.random();
-'''
+``` javascript
+<!DOCTYPE html>
+<html>
+<body>
 
+<h2>JavaScript Math.random()</h2>
+
+<p>Math.random() returns a random number between 0 (included) and 1 (excluded):</p>
+
+<p id="demo"></p>
+
+<script>
+document.getElementById("demo").innerHTML = Math.random();
+</script>
+
+</body>
+</html>
+```
 
 
 Page 2:[Sport Life](SportLife.md)
