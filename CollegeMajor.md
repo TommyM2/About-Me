@@ -14,16 +14,23 @@ The reason I chose IT/Computer Science field was bevause I been around electroni
 
 Heres a code:
 
-'''js
-var x = 100;
-const dog = 'snickers';
+'''javascript
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Random Number Generator</h2>
+
+<p>As you can see from the title this is a random number generator. Pretty cool right</p>
+
+<p id="demo"></p>
+
+
+</body>
+</html>
 '''
 
-'''php
-$age = 50;
-$name = "wes";
-echo strtoupper($name);
-'''
+
 
 Page 2:[Sport Life](SportLife.md)
 
