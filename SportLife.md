@@ -12,3 +12,8 @@ __WE ARE GOING TO GET A RING THIS YEAR BIG TRUZZZZ!!!!!__
 ![Image of track](https://external-preview.redd.it/to7eXEut2Xkye7abw-j26c_2ZShcpUHIhfTuZBuy_u4.jpg?auto=webp&s=7112a79266c57a2855ba29f6b49d68dc5c7a24b8)
 ![Image of LJ](https://cdn.wallpapersafari.com/42/42/ZxND4E.jpg)
 
+
+Page 1:[Where Im From](WhereImFrom.md)
+
+Page 3:[College Major](CollegeMajor.md)
+
