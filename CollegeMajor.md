@@ -24,6 +24,10 @@ Heres a code:
 <p>As you can see from the title this is a random number generator. Pretty cool right</p>
 
 <p id="demo"></p>
+  
+<script>
+document.getElementById("demo").innerHTML = Math.random();
+</script>  
 
 
 </body>
