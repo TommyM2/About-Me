@@ -14,5 +14,6 @@ The reason I chose IT/Computer Science field was bevause I been around electroni
 
 
 
-Page 1:[Where Im From](WhereImFrom.md)                                                                                                      Page 3:[College Major](CollegeMajor.md)
+Page 1:[Where Im From](WhereImFrom.md)                                                                                                     
+Page 3:[College Major](CollegeMajor.md)
 
