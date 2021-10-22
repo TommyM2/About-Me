@@ -12,6 +12,8 @@ The reason I chose IT/Computer Science field was bevause I been around electroni
 
 * [Computer Science Careers](http://3mkm08kox71vtynw1b1wbtpab.wpengine.netdna-cdn.com/wp-content/uploads/2012/10/avg_salaries_graph_oct9.png)
 
+This paragraph has some 'variable' inline code.
+
 Heres a code:
 
 ''' javascript
