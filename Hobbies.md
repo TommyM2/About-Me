@@ -10,3 +10,9 @@ Videogames is a whole different story. I started from a gameboy, to a ds, then a
 
 ![Image of Naruto storm Videogame](https://cdn02.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_download_software/SQ_NSwitchDS_NarutoUltimateNinjaStorm.jpg)
 
+
+
+
+Page 3:[College Major](CollegeMajor.md)
+
+Page 5:[Goals and Dreams](GoalsandDreams.md)
