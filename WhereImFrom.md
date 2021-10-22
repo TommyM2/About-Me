@@ -6,7 +6,7 @@ Cameroon is at the junction of western and central Africa. There are more than 1
 
 My dad family is from the english side and my mom family is from the french side of Cameroon. I never really bothered on trying to learn how to speak freanch, but now that I think about it, I shpuld have tried to learn how to speak it. Welp I can always still learn.
 
-### Fun Facts:
+*__Fun Facts__*
 * The first Europeans to explore Cameroon were Portuguese navigators who sailed up the Wouri River in 1472. 
 * The flag of Cameroon comprises vertically strips of green, red and yellow with a central yellow star. The star symbolises national unity, the green stripe symbolises the vegetation of the south, yellow the savannas of the north and the red represents a link between the north and south and stands for national sovereignty.
 * There are as many as 275 local languages spoken in Cameroon, making it one of the most linguistically diverse countries.
