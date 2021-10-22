@@ -6,3 +6,4 @@ Cameroon, country lying at the junction of western and central Africa. There are
 
 My dad is from the english side and my mom is from the french side of Cameroon. I never really bothers on trying to learn how to speak freanch, but now that I think about it, I shpuld have tried to learn how to speak it. Welp I can always still learn.
 
+![Image of a Cameroon Flag](https://wonderfulengineering.com/wp-content/uploads/2015/08/Cameroon-Flag-2.jpg)
