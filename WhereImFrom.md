@@ -15,6 +15,7 @@ My dad family is from the english side and my mom family is from the french side
 ![Image of a Cameroon Flag](https://wonderfulengineering.com/wp-content/uploads/2015/08/Cameroon-Flag-2.jpg)
 
 
+Intro:[About me](README.md)
 
 Page 2:[Sport Life](SportLife.md)
 
