@@ -17,3 +17,5 @@ Page 1:[Where Im From](WhereImFrom.md)
 Page 2:[Sport Life](SportLife.md)
 
 Page 3:[College Major](CollegeMajor.md)
+
+Page 4:[Hobbies](Hobbies.md)
