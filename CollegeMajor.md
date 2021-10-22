@@ -6,6 +6,8 @@ So I was just like I'm just going to major in IT, besides that what I wanted to 
 
 The reason I chose IT/Computer Science field was bevause I been around electronics throughout my life. So I wanted to do something in the electric field. Probably one day I'll make my on game or something who knows. i really want to learn how to code because I dont really know that much off the top of my head.
 
-[IT VS. Computer Science](https://www.rasmussen.edu/degrees/technology/blog/it-vs-computer-science-degree-infographic/)
-[IT Careers](https://th.bing.com/th/id/OIP.5qZB_YRN2ILP2neFO3e7kQHaLs?pid=ImgDet&rs=1)
-[Computer Science Careers](http://3mkm08kox71vtynw1b1wbtpab.wpengine.netdna-cdn.com/wp-content/uploads/2012/10/avg_salaries_graph_oct9.png)
+* [IT VS. Computer Science](https://www.rasmussen.edu/degrees/technology/blog/it-vs-computer-science-degree-infographic/)
+
+* [IT Careers](https://th.bing.com/th/id/OIP.5qZB_YRN2ILP2neFO3e7kQHaLs?pid=ImgDet&rs=1)
+
+* [Computer Science Careers](http://3mkm08kox71vtynw1b1wbtpab.wpengine.netdna-cdn.com/wp-content/uploads/2012/10/avg_salaries_graph_oct9.png)
