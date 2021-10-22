@@ -12,6 +12,6 @@ LETS GOO!!!
 
 Links:
 
-Page 1 [Where Im From](WhereImFrom.md)
+Page 1:[Where Im From](WhereImFrom.md)
 
-Page 2 [Sport Life](SportLife.md)
+Page 2:[Sport Life](SportLife.md)
