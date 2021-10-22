@@ -20,7 +20,7 @@ Heres a simple code:
 <html>
 <body>
 
-<h2>This is a random number generator. Pretty cool right!</h2>
+<h2>This is a random decimal number generator. Pretty cool right!</h2>
 
 
 <p id="demo"></p>
