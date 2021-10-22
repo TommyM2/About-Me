@@ -1,6 +1,6 @@
 ## Cameroon
 
-**I am originally born in maryland, but my family is from Cameroon.
+** I am originally born in maryland, but my family is from Cameroon.
 
 Cameroon is at the junction of western and central Africa. There are more than 1700 different linguistic groups in the country and over 230 other languages are spoken in the region apart from its official languages, French and English.
 
