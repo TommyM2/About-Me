@@ -1,6 +1,6 @@
 # About-Me
 
-Hellow yall my name is Tommy Martin. 
+Hey y'all, my name is Tommy Martin. 
 
 Today I have something special I want to show you guys. Im going to be presenting a presentaion about my self. For example, I'm going to be talking about where I'm from, my hobbies, my sprt life, my major and why I chose it, and by goals that I want to accomplish in life.
 
