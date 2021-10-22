@@ -20,3 +20,5 @@ __My Goals and Dream__
 
 I watch a lot of motivational speech especially Steve Harvey.
 [Motivatonal Speech by Steve Harvey](https://www.youtube.com/watch?v=jr1pw-Zc0VM)
+
+![Image of Lion](https://i.pinimg.com/736x/5b/32/74/5b327404841d0cd972e4d4f728608a47.jpg)
