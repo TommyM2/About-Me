@@ -15,23 +15,7 @@ The reason I chose IT/Computer Science field was bevause I been around electroni
 Heres a code:
 
 '''javascript
-<!DOCTYPE html>
-<html>
-<body>
 
-<h2>Random Number Generator</h2>
-
-<p>As you can see from the title this is a random number generator. Pretty cool right</p>
-
-<p id="demo"></p>
-  
-<script>
-document.getElementById("demo").innerHTML = Math.random();
-</script>  
-
-
-</body>
-</html>
 '''
 
 
