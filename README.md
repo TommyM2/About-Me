@@ -11,6 +11,7 @@ The goal is to just learn more about me. So with that be said...
 LETS GOO!!!
 
 Links:
-[Where Im From](WhereImFrom.md)
 
-[Sport Life](SportLife.md)
+Page 1 [Where Im From](WhereImFrom.md)
+
+Page 2 [Sport Life](SportLife.md)
