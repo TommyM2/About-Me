@@ -9,3 +9,6 @@ Its going to be very fun so grab some popcorn and get confortable. Dont worry, I
 The goal is to just learn more about me. So with that be said...
 
 LETS GOO!!!
+
+Links:
+[Where Im From](WhereImFrom.md)
