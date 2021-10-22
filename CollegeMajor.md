@@ -12,7 +12,18 @@ The reason I chose IT/Computer Science field was bevause I been around electroni
 
 * [Computer Science Careers](http://3mkm08kox71vtynw1b1wbtpab.wpengine.netdna-cdn.com/wp-content/uploads/2012/10/avg_salaries_graph_oct9.png)
 
+Heres a code:
 
+'''js
+var x = 100;
+const dog = 'snickers';
+'''
+
+'''php
+$age = 50;
+$name = "wes";
+echo strtoupper($name);
+'''
 
 Page 2:[Sport Life](SportLife.md)
 
